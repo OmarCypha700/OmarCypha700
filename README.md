@@ -3,10 +3,9 @@
 - 🔭 I’m currently working on a lot of things.
 - 🌱 I’m currently learning Django & Machine Learning.
 - 👯 I’m looking to collaborate on data analysis, data science projects and web development projects.
-- 📫 How to reach me: [Email](mailto:omarcypha@gmail.com) [Twitter](https://twitter/@omar_cypha) Mail: omarcypha@gmail.com
-<!--
-**OmarCypha700/OmarCypha700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: [Email](mailto:omarcypha@gmail.com) [Twitter](https://twitter.com/@omar_cypha)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
