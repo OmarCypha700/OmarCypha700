@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a lot of things.
 - 🌱 I’m currently learning Django & Machine Learning.
 - 👯 I’m looking to collaborate on data analysis, data science projects and web development projects.
-- 📫 How to reach me: [Email](mailto:omarcypha@gmail.com) [Twitter](https://twitter.com/@omar_cypha)
+- 📫 How to reach me:📧 [Email](mailto:omarcypha@gmail.com) [Twitter](https://twitter.com/@omar_cypha)
 
 <!--
 Here are some ideas to get you started:
