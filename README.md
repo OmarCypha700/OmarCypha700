@@ -1,4 +1,4 @@
-### Hi I'm Adjei-Kumi Nana Caleb 👋
+### Hi I'm Caleb Nana Adjei-Kumi 👋
 - 🤵 I'm a College Librarian | Information Scientist | Research Consultant | Developer
 - 👀 I'm interested in Library Systems, Web Development, Data Science
 - 🔭 I’m currently working on a lot of things.
