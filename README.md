@@ -1,9 +1,9 @@
 ### Hi I'm Caleb Nana Adjei-Kumi 👋
-- 🤵 I'm a College Librarian | Information Scientist | Research Consultant | Web Developer
-- 👀 I'm interested in Library Systems, Web Development, Data Science
+- 🤵 I'm a Web Developer| Information Scientist | College Librarian | Research Consultant  
+- 👀 I'm interested in Web Development, Library Systems, Data Science
 - 🔭 I’m currently working on a lot of things.
-- 🌱 I’m currently learning Django & Machine Learning.
-- 👯 I’m looking to collaborate on research projects, data analysis projects, web development projects, and data science projects.
+- 🌱 I’m currently learning a lot of stuff.
+- 👯 I’m looking to collaborate on web development projects, research projects, data analysis projects, and data science projects.
 - 📫 How to reach me: [Email](mailto:adjeikumicaleb@gmail.com) [Twitter](https://twitter.com/@omar_cypha)
 
 <!--
