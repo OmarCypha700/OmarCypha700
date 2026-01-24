@@ -4,7 +4,10 @@
 - 🔭 I’m currently working on a lot of things.
 - 🌱 I’m currently learning a lot of stuff.
 - 👯 I’m looking to collaborate on web development projects, research projects, data analysis projects, and data science projects.
-- 📫 How to reach me: [Email](mailto:adjeikumicaleb@gmail.com) [Twitter](https://twitter.com/@omar_cypha)
+- 📫 How to reach me:
+- [Email](mailto:adjeikumicaleb@gmail.com)
+- [Twitter](https://twitter.com/@omar_cypha)
+- [LinkedIn](https://www.linkedin.com/in/nana-adjei-caleb)
 
 <!--
 Here are some ideas to get you started:
